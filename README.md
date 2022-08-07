@@ -20,5 +20,5 @@
 - A post website that allows posting and voting.
 - Tech stack used: ReactJS, Cloudflare Wrangler Workers, Cloudflare Pages
 - Live link: https://cloudpost.pages.dev/
-C++ Work Samples (https://github.com/210057zzh/CPP-Samples)
+## C++ Work Samples (https://github.com/210057zzh/CPP-Samples)
 - Includes a Super Mario’s first level’s clone, a Travelling Salesman’s genetic algorithm implementation with functional programming, and a html server that’s capable of fulfilling GET request (No library used).
