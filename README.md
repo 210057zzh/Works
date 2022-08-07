@@ -4,6 +4,7 @@
 - Tech stack used: Android (espresso, Junit, Java), Firebase,
 - Contribution: All code including Firebase and Android and Black Box test with espresso.
 - Demo: https://www.youtube.com/watch?v=ynCIILtGV08&ab_channel=Faust.ZZH
+- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ynCIILtGV08&ab/0.jpg)](https://www.youtube.com/watch?v=ynCIILtGV08&ab)
 ## Sprout (https://github.com/210057zzh/CSCI_201_Final_Project) (Group Project of 5)
 - A Yelp clone that has support for business searching, posting, reviewing, and saving as favorites.
 - Tech stack used: ReactJS, SpringBoot, SQL (Google Cloud Service)
